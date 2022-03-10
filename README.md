@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tits2iu74vb0r02o/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-forms-photo/branch/master)
+
 [Менеджер фото](https://rebikhub.github.io/ra-forms-photo/)
 
 ===
