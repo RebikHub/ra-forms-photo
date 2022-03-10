@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ra-forms-photo/static/css/main.d767c9b6.css",
+    "main.js": "/ra-forms-photo/static/js/main.6edbee55.js",
+    "static/media/cross.png": "/ra-forms-photo/static/media/cross.e5b33ed0d6494fd26d32.png",
+    "index.html": "/ra-forms-photo/index.html",
+    "main.d767c9b6.css.map": "/ra-forms-photo/static/css/main.d767c9b6.css.map",
+    "main.6edbee55.js.map": "/ra-forms-photo/static/js/main.6edbee55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d767c9b6.css",
+    "static/js/main.6edbee55.js"
+  ]
+}
